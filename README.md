@@ -1,2 +1,2 @@
-# logica-programacao-praticando-desafios
+# Lógica de programação
 Exemplos do curso "Lógica de programação: Praticando com desafios"
